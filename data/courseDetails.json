@@ -11,34 +11,34 @@
         "title": "Chemistry",
         "img": "https://wafilife-media.wafilife.com/uploads/2022/05/0-37-250x390.png",
         "price": "$300",
-        "description": "'Here is some description about this book'"
+        "description": "'Here is some description about Chemistry book'"
     },
     {
         "_id": "bio101",
         "title": "Biology",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Biology_1st_part_Class_XI_XIIWhite_Print-Dr_Mohammod_Abul_Hasan-a0913-86302.jpg",
         "price": "$250",
-        "description": "'Here is some description about this book'"
+        "description": "'Here is some description about Biology book'"
     },
     {
         "_id": "mat101",
         "title": "Mathematics",
         "img": "https://wafilife-media.wafilife.com/uploads/2021/07/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%B6-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%B6-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF.png",
         "price": "$400",
-        "description": "'Here is some description about this book'"
+        "description": "'Here is some description about Mathematics book'"
     },
     {
         "_id": "eng101",
         "title": "English",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Advanced_Learners_HSC_Communicative_Engl-Md_Yusuf_Ali_Chowdhury-737ba-71411.jpg",
         "price": "$200",
-        "description": "'Here is some description about this book'"
+        "description": "'Here is some description about English book'"
     },
     {
         "_id": "ban101",
         "title": "Bangla",
         "img": "https://wafilife-media.wafilife.com/uploads/2021/03/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A7%A7%E0%A6%AE-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%BE%E0%A6%A0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE.png",
         "price": "$200",
-        "description": "'Here is some description about this book'"
+        "description": "'Here is some description about Bangla book'"
     }
 ]
